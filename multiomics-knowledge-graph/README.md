@@ -3,7 +3,7 @@
 ### Team
 - Alberto Labarga
 - María Gomez
-- Robert
+- Robert Hoehndorf
   
 ### Objective
 
